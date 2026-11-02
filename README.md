@@ -1,6 +1,6 @@
 # Audio Compression Using MDCT in Scilab
 
-A clean, hands-on simulation of an audio compression pipeline built from scratch in **Scilab**. This project demonstrates how modern audio codecs (like MP3, AAC, and Ogg Vorbis) compress sound using the **Modified Discrete Cosine Transform (MDCT)** and psychoacoustic quantization.
+A clean, hands-on simulation of an audio compression pipeline built from scratch in **Scilab**. This project demonstrates how modern audio codecs (like MP3, AAC) compress sound using the **Modified Discrete Cosine Transform (MDCT)** and psychoacoustic quantization.
 
 ---
 
